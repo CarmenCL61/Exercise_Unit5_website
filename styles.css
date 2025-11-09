@@ -80,3 +80,28 @@ li:hover {
     transform: scale(1.05);
     transition: 0.2s;
 }
+
+footer {
+    background-color: #ff9ec5; 
+    color: white;
+    text-align: center;
+    padding: 20px 15px;
+    margin-top: 30px;
+    border-radius: 15px;
+    box-shadow: 0 6px 10px rgba(0,0,0,0.1);
+    font-size: 0.95rem;
+}
+
+
+footer a {
+    color: #fff5f8;
+    text-decoration: none;
+    margin: 0 8px;
+    font-weight: 600;
+    transition: 0.2s;
+}
+
+footer a:hover {
+    color: #ffe1f0;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.2);
+}
